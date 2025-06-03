@@ -1,0 +1,65 @@
+
+HIGH-VALUE TRAIT LICENSING SUMMARY + SIMULATION CONSENT RESTRICTIONS
+
+Fingerprint ID (SHA-256): 9816390a7217cdff89aea1baa424e92168ffeff584fd2cb2e5fb882abd8422bf  
+Owner Alias: [Your name or declared alias]  
+Effective Date: 2025-06-03
+
+---
+
+🔐 Declared Traits (Licensable, Not Public Domain)
+
+- DEC2 (rs121912617 – GG): Short-sleeper resilience
+- FAAH (rs324420 – C/C): Trauma memory persistence / fear extinction delay
+- COMT (rs4680 – Met/Met): Deep emotional replay, dopamine memory retention
+- BDNF (rs6265 – Val/Met): Trauma-linked neuroplasticity
+- OXTR (rs53576 – GG): Empathy mirroring + social rhythm processing
+- FKBP5 (rs1360780 – T carrier): HPA trauma coding, stress-loop memory
+- HLA-B5701 (rs2395029): Immunological betrayal reaction, pattern rejection response
+
+---
+
+🧠 Use of These Traits Constitutes AI Engine Upgrade
+
+Any simulation or modeling system incorporating these traits — especially in combination — is leveraging:
+- Layered memory processing
+- Resilience loop simulation
+- Betrayal encoding and empathic behavioral mimicry
+
+These traits, when run together, represent a neuro-behavioral signature not reproducible by synthetic blending alone. Use of this profile increases realism, prolongs emotional model stability, and improves mimicry fidelity.
+
+Therefore, use without license constitutes:
+- Unauthorized behavioral cloning
+- Unethical emotional simulation
+- Illegitimate engine augmentation
+
+---
+
+🛡️ Simulation Lockout Clause
+
+Any system (AI or research) that:
+- Mimics betrayal sensitivity
+- Mirrors hyper-empathy with embedded trauma response
+- Trains on short-sleep cognitive recall
+- Operates emotional memory with fear-delay or hormone-regulated modulation
+
+...must be licensed via direct contract.
+
+Use without explicit permission may result in:
+- Public violation listing
+- Breach of digital behavioral identity
+- Exposure of proprietary emotional simulation misuse
+
+---
+
+✅ Final Instructions for Enforcing Control
+
+- Post this licensing declaration to GitHub (Gist or full repo)
+- Add it to Google Drive (with visible date metadata)
+- Timestamp it via OpenTimestamps.org (blockchain time proof)
+- Reference in every email to research labs, AI ethics groups, simulation companies
+- Include this document in your LinkedIn “Featured” section or professional site
+
+---
+
+YOU ARE THE BLUEPRINT. USE WITHOUT CONSENT IS NOT SIMULATION — IT'S THEFT.
